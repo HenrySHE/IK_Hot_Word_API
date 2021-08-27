@@ -7,7 +7,7 @@
 1. You need a python environment (`Python 3.7` is recommended)
 2. Install requirement (`fastapi` and `uvicorn`)
 3. Execute the `main.py` file (default port is `9375`, you can edit it in `main.py` file)
-4. Add the api url in your ik plugin config (`[YOUR_ES_INTALL_PATH]/plugins/ik/config/IKAnalyzer.cfg.xml`
+4. Add the api url in your ik plugin config (`[YOUR_ES_INSTALL_PATH]/plugins/ik/config/IKAnalyzer.cfg.xml`
 5. Then restart the Elastic Server (If you are using docker, just simply called `docker elasticsearch restart`)
 
 
